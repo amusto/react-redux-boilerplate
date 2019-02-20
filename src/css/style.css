@@ -1,0 +1,19 @@
+.layout {
+  /** margin: 20px; **/
+  /** padding: 20px; **/
+  /**border: 1px solid #DDD;**/
+}
+
+.header-device {
+  color: white
+}
+
+.page-container {
+  margin: 5px;
+}
+
+
+
+.footer {
+    marginTop: '200px';
+}
